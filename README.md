@@ -4,3 +4,4 @@
 >It's because it needs to build substrings from more than 20 000 words
 >Useful dataframes are stored as .csv files in dedicated folder
 >Please reload the entire project
+>Groupe Mélanie Grégory Lohan
